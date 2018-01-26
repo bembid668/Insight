@@ -3507,10 +3507,10 @@ nav ul a span.badge {
 }
 
 .row .col.s12 {
-  width: 100%;
-  margin-left: auto;
-  left: auto;
-  right: auto;
+  width: 250px;
+  max-width:250px;
+  display: block;
+  float:left;
 }
 
 .row .col.offset-s1 {
