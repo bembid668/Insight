@@ -1,4 +1,18 @@
 <p align="center">
+  Made as part of the Sky Hackathon Maiden Edition 2018. Essentially a website/social network that works as a platform for connecting people who watch Sky TV and Now TV to social media influencers and bloggers, giving them an idea of what their favorite celebrity is watching/recommending. Made using BeautifulSoup to scrape the NowTV catalogue, and HTML/CSS/JQuery/Materialize.css/PHP to make the front and the back-end of the social platform. Essentially started out as a plugin to the already existing platform SkyGo and NowTV but ended up as a platform when we realized they don't have any API's we could use. Made by Sanchit Bembi and Dominic Swaine.
+  
+  Roles :- 
+  1. Sanchit Bembi - Front-end
+  2. Domininc Swaine - Back-end and Python Scraper
+  </p>
+
+
+
+
+
+
+
+<p align="center">
   <a href="http://materializecss.com/">
     <img src="http://materializecss.com/res/materialize.svg" width="150">
   </a>
